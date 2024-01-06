@@ -1,0 +1,196 @@
+{  "store": {
+    "name": "EpicEdibles",
+    "location": "India",
+    "inventory": [
+      {
+        "product_id": 1,
+        "product_name": "Organic Apples",
+        "category": "Fruits",
+        "price": 220,
+        "description": "Enjoy the crisp sweetness of our organic apples, a healthy and refreshing snack bursting with natural flavors.",
+        "image": "https://freshindiaorganics.com/cdn/shop/products/Apples.jpg?v=1686739530",
+        "stock":100
+      },
+      {
+        "product_id": 2,
+        "product_name": "Whole Grain Bread",
+        "category": "Bakery",
+        "price": 50,
+        "description": "Indulge in the wholesome goodness of our whole grain bread, a nutritious choice for hearty sandwiches and guilt-free toasting.",
+        "image": "https://static.wixstatic.com/media/fa075a_2c18be38e94c4fe6a9bba39df53c1657~mv2.jpg/v1/fill/w_1500,h_1069,al_c/fa075a_2c18be38e94c4fe6a9bba39df53c1657~mv2.jpg",
+        "stock":100
+      },
+      {
+        "product_id": 3,
+        "product_name": "Eggs",
+        "category": "Dairy",
+        "price": 170,
+        "description": "Packed with protein, our fresh eggs are the perfect addition to your breakfast or baking endeavors, offering essential nutrients and great taste.",
+        "image":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQPE4yJ2-mvc0-ZT1vdqf36hzOrZZq26gy5u1owmks2HM8bA6wYUkfp3h58NulfHhXX7YgR_W5xMvPzql394-ieCzV2N-raI8Ld11OkzZc&usqp=CAE",
+        "stock":100
+      },
+      {
+        "product_id": 4,
+        "product_name": "Tomatoes",
+        "category": "Vegetables",
+        "price": 40,
+        "description": "Vibrant and juicy, our tomatoes add a burst of freshness to salads, sauces, and sandwiches, enhancing your culinary creations.",
+        "image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRI0D9UDxPkfEF3sW3H32MPaUVZo-HazmOCfRZthCh9G-R1rg0xLrzpFc6j0Dk4YF9a_PW76EEuuRovy_CMOQYuJkPjT_eFm2V5m5YyaCNORWDmee-qCa5DUQ&usqp=CAE",
+        "stock":100
+      },
+      {
+        "product_id": 5,
+        "product_name": "Organic Spinach",
+        "category": "Vegetables",
+        "price": 40,
+        "description": "Elevate your meals with the goodness of organic spinach, a nutrient-rich leafy green that brings a healthful touch to your dishes.",
+        "image":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ4jecbwVbkwf0dExP4UZwao5NQgzybBrIFzCHTUCJH0vJ_o1uczirHgE01GvJS7BleZyrhXwf3CbK17nh4l4r_WO4fRDVnaBDek7mmemCDwXfBB5rtvXardA&usqp=CAE",
+        "stock":100
+      },
+      {
+        "product_id": 6,
+        "product_name": "Ground Coffee",
+        "category": "Beverages",
+        "price": 60,
+        "description": "Awaken your senses with the rich aroma and robust flavor of our ground coffee, ensuring a delightful start to your day.",
+        "image":"https://theworldstore.in/cdn/shop/files/61ZQW9emtfL._SX679_1728x.jpg?v=1692705135",
+        "stock":100
+      },
+      {
+        "product_id": 7,
+        "product_name": "Yogurt",
+        "category": "Dairy",
+        "price": 30,
+        "description": "Creamy and delicious, our yogurt is a versatile dairy delight, perfect for snacking, breakfast, or as a wholesome addition to your recipes.",
+        "image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTnosyyx0D27NdM91rL8Oxo1MfLIy34gIcajKqVM3lVUUMR3yfAu9Jlem9NYNWvZysi3ohNwbChnummFA-oTeClEWvEhGLklpQJM-YQEufQlSeDdAQ5-7ET&usqp=CAE",
+        "stock":100
+      },
+      {
+        "product_id": 9,
+        "product_name": "Dark Chocolate",
+        "category": "Snacks",
+        "price": 100,
+        "description": "Indulge your sweet cravings guilt-free with our rich and decadent dark chocolate, a delightful treat for any occasion.",
+        "image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRfppwohkQgKlwVt-lrluGbP9qD9_sCn4aK4su1lYXQ5FN3aiMmvdbHpgXd_68JntKHWRAWVG2SRxtBz-2MKfIwzbRsu_8_GpP27o5gWx9Y",
+        "stock":100
+      },
+      {
+        "product_id": 10,
+        "product_name": "Basmati Rice",
+        "category": "Grains",
+        "price": 265.71,
+        "description": "Savor the aromatic goodness of our Basmati rice, a staple for biryanis and pilafs, renowned for its long grains and distinct fragrance.",
+        "image":"https://images.aasaan.shop/stores/gobazaarin/products/product_images/compressed_1680424164630.webp",
+        "stock":100
+      },
+      {
+        "product_id": 11,
+        "product_name": "Masoor Dal",
+        "category": "Pulses",
+        "price": 164.42,
+        "description": "A nutritional powerhouse, our Masoor Dal provides a hearty dose of protein and flavor, enhancing the taste of your favorite lentil dishes.",
+        "image":"https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51uf4tsXdzL._SX300_SY300_QL70_FMwebp_.jpg",
+        "stock":100
+      },
+      {
+        "product_id": 12,
+        "product_name": "Paneer",
+        "category": "Dairy",
+        "price": 329.43,
+        "description": "Delight in the creamy texture and versatility of our paneer, a staple in Indian cuisine, perfect for curries, kebabs, and more.",
+        "image": "https://www.jiomart.com/images/product/original/490020845/verka-paneer-200-g-pack-product-images-o490020845-p490020845-0-202206061832.jpg?im=Resize=(420,420)",
+        "stock":100
+      },
+      {
+        "product_id": 13,
+        "product_name": "Cheese",
+        "category": "Dairy",
+        "price": 150,
+        "description": "Indulge in the rich and creamy goodness of our premium cheese selection. Whether you prefer the smooth texture of mozzarella, the bold flavor of cheddar, or the exquisite taste of brie, our cheeses elevate your culinary experience. Perfect for snacks, sandwiches, or gourmet recipes, our cheeses promise a delightful fusion of quality and taste.",
+        "image": "https://www.bigbasket.com/media/uploads/p/xxl/40005021-2_3-amul-processed-cheese-block.jpg",
+        "stock": 100
+      },
+      {
+        "product_id": 14,
+        "product_name": "Alphonso Mangoes",
+        "category": "Fruits",
+        "price": 392.35,
+        "description": "Experience the luscious sweetness of Alphonso mangoes, a tropical delight that embodies the essence of Indian summers.",
+        "image":"https://www.bookmymango.in/wp-content/uploads/2021/04/RDA.jpg",
+        "stock": 100
+      },
+      {
+        "product_id": 15,
+        "product_name": "Chai Tea Leaves",
+        "category": "Beverages",
+        "price": 490.80,
+        "description": "Immerse yourself in the rich and aromatic blend of our chai tea leaves, a comforting beverage that captivates with every sip.",
+        "image":"https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/410hIZNB9dL._SX300_SY300_QL70_FMwebp_.jpg",
+        "stock": 100
+      },
+      {
+        "product_id": 16,
+        "product_name": "Spicy Curry Powder",
+        "category": "Spices",
+        "price": 196.78,
+        "description": "Add an authentic burst of flavor to your dishes with our spicy curry powder, a blend of aromatic spices that brings a taste of India to your kitchen.",
+        "image":"https://www.bharatmasala.in/wp-content/uploads/2021/05/CURRY-POWDER-300x300-removebg-preview.png",
+        "stock": 100
+      },
+      {
+        "product_id": 17,
+        "product_name": "Fresh Curd",
+        "category": "Dairy",
+        "price": 248.41,
+        "description": "Enjoy the velvety texture and tangy goodness of our fresh curd, a versatile dairy delight that complements a variety of dishes.",
+        "image": "https://m.media-amazon.com/images/I/71eftr9IdFL.jpg",
+        "stock": 100
+      },
+      {
+        "product_id": 18,
+        "product_name": "Turmeric Powder",
+        "category": "Spices",
+        "price": 98.84,
+        "description": "Embrace the golden hues and health benefits of our turmeric powder, a spice that adds warmth and depth to your culinary creations.",
+        "image": "https://www.tatanutrikorner.com/cdn/shop/files/Tata-Sampann---3000X3000px-Turmeric-Powder-100gm-_FOP.jpg?v=1699028123",
+        "stock": 100
+      },
+      {
+        "product_id": 19,
+        "product_name": "Ghee",
+        "category": "Dairy",
+        "price": 922.52,
+        "description": "Elevate your cooking with the rich and nutty flavor of our ghee, a traditional Indian staple that enhances the taste of both sweet and savory dishes.",
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41iw+R3dCiL._SY300_SX300_.jpg",
+        "stock": 100
+      },
+      {
+        "product_id": 20,
+        "product_name": "Fortune Rice",
+        "category": "Grains",
+        "price": 589.37,
+        "description": "Immerse yourself in the fragrant allure of our jasmine rice, a delicately scented grain that pairs perfectly with a variety of cuisines.",
+        "image": "https://www.jiomart.com/images/product/original/491215471/fortune-biryani-special-basmati-rice-1-kg-product-images-o491215471-p491215471-0-202203151403.jpg?im=Resize=(1000,1000)",
+        "stock": 100
+      },
+      {
+        "product_id": 21,
+        "product_name": "Mango Chutney",
+        "category": "Fruits",
+        "price": 432.93,
+        "description": "Enhance your meals with the sweet and tangy flavors of our mango chutney, a delightful condiment that complements a range of dishes.",
+        "image": "https://apisap.fabindia.com/medias/10736008-1.jpg?context=bWFzdGVyfGltYWdlc3wxMjUxNzJ8aW1hZ2UvanBlZ3xhR0UwTDJnNE1pODVNREl4TkRrME5Ua3hOVEU0THpFd056TTJNREE0WHpFdWFuQm58MjYzNTRiNjliMzcxZGNiOTI4YmNiYWUxYzVjNDZhMmY3OGU1YzQzYTUxZGFhMmFhMTQ5NTE3MTZhYTIyYzk2ZA",
+        "stock": 100
+      },
+      {
+        "product_id": 22,
+        "product_name": "Assam Tea",
+        "category": "Beverages",
+        "price": 784.69,
+        "description": "Revel in the bold and robust flavor of our Assam tea, a classic brew that delivers a strong and invigorating cup of tea.",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2023/5/308961291/UP/DW/ID/8920705/1kg-premium-assam-tea.jpeg",
+        "stock": 100
+      }
+    ]
+  }
+}
